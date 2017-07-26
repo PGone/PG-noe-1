@@ -79,6 +79,6 @@ public class xiangmu {
 			}
 		} while (num == 0);
 		System.out.println("Ð»Ð»Ê¹ÓÃ£¬»¶Ó­ÏÂ´Î¹âÁÙ£¡");
-		System.out.println("À×ºð°¡");
+		System.out.println("À×ºð°¡£¡£¡£¡£¡£¡£¡£¡£¡£¡");
 	}
 }
